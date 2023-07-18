@@ -97,7 +97,18 @@ NCF方法的性能与每个阳性实例的阴性样本数量有关(factors=16)�
 
 ![image](https://github.com/Xian-Gang/NCF/assets/129944803/470d4cc9-1bb2-4fd1-948c-8dccfe7ba6b4)
 
+ 五、本人代码运行结果
+ 1、GMF
+ ![image](https://github.com/Xian-Gang/NCF/assets/129944803/84377a09-fabb-4441-96e4-0e545b37f13e)
 
+2、MLP
+![image](https://github.com/Xian-Gang/NCF/assets/129944803/03285c29-441d-4ba4-8b49-f22f843100ec)
+
+3、NeuMF
+![image](https://github.com/Xian-Gang/NCF/assets/129944803/03eca3b7-bccc-4818-8dd9-2dae122733f4)
+
+同时会产生对应的预训练文件：
+![image](https://github.com/Xian-Gang/NCF/assets/129944803/d3512309-c791-4073-bddf-9d8bc751654f)
 
 
  
